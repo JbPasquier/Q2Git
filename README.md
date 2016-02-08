@@ -11,6 +11,7 @@
 
 > Marquer le commit
 > > $ git commit -m "Ceci est un commentaire marqué lors de l'ajout du fichier README.md"
+
 > Il est possible de vérifier l'état avec git status
 
 > Marquage du repo
