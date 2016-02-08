@@ -19,7 +19,7 @@ Se connecter à mon compte git
 $ git log
 
 Ajouter les fichier au rep distant (JbPasquier/Q2_Git)
-$ git remote add origin https://github.com/JbPasquier/Q2_Git.git
+$ git remote add origin https://github.com/JbPasquier/Q2Git.git
 
 Push les fichiers sur le repo
 $ git push -u origin master
