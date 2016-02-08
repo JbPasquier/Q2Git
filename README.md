@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #WCS G2 Git
 
 Initialiser le repository
@@ -24,7 +23,3 @@ $ git remote add origin https://github.com/JbPasquier/Q2_Git.git
 
 Push les fichiers sur le repo
 $ git push -u origin master
-
-=======
-# Q2Git
->>>>>>> 77c418d3fce872c860d439f1b2f946d139e150f5
